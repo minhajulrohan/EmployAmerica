@@ -13,7 +13,7 @@ const Index = () => {
   const jobListings = [
     {
       id: 1,
-      title: "Delivery Driver (Seasonal) Full-Time",
+      title: "Expert Job Match - Housekeeping ",
       company: "Amazon Flex",
       location: "Phoenix City, AL",
       country: "United States",
@@ -24,11 +24,11 @@ const Index = () => {
       description: "Are you looking for a seasonal opportunity with flexible hours and competitive pay? Join Amazon Flex as a delivery driver and earn money delivering packages in your area. Perfect for those seeking extra income during peak seasons.",
       requirements: ["Must be 18+ years old", "Ability to lift 50lbs", "Reliable transportation"],
       posted: "1 days ago",
-      applyLink: "https://tinyurl.com/JobsHubUSA-AmazonJobs"
+      applyLink: "https://www.opph3hftrk.com/PP5J95Z/3BDN7PS/?source_id=Landing%20page"
     },
     {
       id: 2,
-      title: "Higher Income Jobs PepsiCo Now Hiring *Sign-On Bonus*",
+      title: "Expert Job Match - Work From Home",
       company: "PepsiCo", 
       location: "United States",
       country: "United States",
@@ -39,12 +39,12 @@ const Index = () => {
       description: "Join our team at PepsiCo and earn a competitive salary with a sign-on bonus. We are hiring dedicated RN professionals for our plasma center. Employment is at-will and may be terminated at any time.",
       requirements: ["High school diploma", "Physical stamina", "Team player"],
       posted: "1 day ago",
-      applyLink: "https://tinyurl.com/HigherIncome-Jobs-Pepsi-Jobs"
+      applyLink: "https://www.opph3hftrk.com/PP5J95Z/3B9WG8L/?source_id=Landingpage"
     },
     {
       id: 3,
-      title: "Great Jobs – Coca-Cola Reefer Driver No Touch Freight",
-      company: "Decker Truck Line",
+      title: "Expert Job Match - Pepsi",
+      company: "Offer Media",
       location: "United States",
       country: "United States",
       salary: "$35.00 an hour",
@@ -54,11 +54,11 @@ const Index = () => {
       description: "Now hiring OTR Reefer Drivers for Coca-Cola freight. Earn $1,100–$1,300 weekly gross. Enjoy sign-on bonus, no-touch freight, excellent benefits, new equipment, and consistent miles.",
       requirements: ["No degree preferred", "Excellent communication", "No  experience"],
       posted: "1 days ago",
-      applyLink: "https://tinyurl.com/Great-Jobs-CocaCola"
+      applyLink: "https://www.opph3hftrk.com/PP5J95Z/3C2PP9P/?source_id=Landingpage"
     },
     {
       id: 4,
-      title: "FedEx Delivery Driver – Full-Time with Weekly Pay",
+      title: "Expert Job Match - USPS",
       company: "FedEx Ground Contractor",
       location: "United States",
       country: "United States",
@@ -69,12 +69,12 @@ const Index = () => {
       description: "Now hiring for FedEx Work From Home positions. Full-time role with weekly pay, health benefits, and paid training. Must be 21+ with a valid driver’s license and clean record. No CDL required. Join our remote support team and help ensure fast, safe, and efficient service",
       requirements: ["Physical ability required", "Attention to detail", "Safety focused"],
       posted: "4 days ago",
-      applyLink: "https://tinyurl.com/HigherIncomeJobs-FedEx-Jobs"
+      applyLink: "https://www.opph3hftrk.com/PP5J95Z/3BP1J5G/?source_id=Landingpage"
     },
     {
       id: 5,
-      title: "Earn with Prizestash Cash App – Simple Tasks, Get $800 Gift",
-      company: "FedEx Ground Contractor",
+      title: "JobsHubUSA - Work From Home Jobs",
+      company: "DRMaFF",
       location: "United States",
       country: "United States",
       salary: "$25.00 an hour",
@@ -84,12 +84,12 @@ const Index = () => {
       description: "Complete simple tasks through the Prizestash Cash App and receive a $100 gift from our company. No experience needed. Weekly earnings potential of $800 depending on task completion. Limited-time opportunity!",
       requirements: ["Strong analytical skills", "Problem-solving ability", "Detail oriented"],
       posted: "1 week ago",
-      applyLink: "https://tinyurl.com/PrizestashDTR-Cashapp-1000"
+      applyLink: "https://go2daff.click/click?o=3726&p=6184&s1=Landingpage"
     },
     {
       id: 6,
-      title: "Software Engineer",
-      company: "Google",
+      title: "OnlyGreatJobs - USPS Jobs ",
+      company: "DRMaFF",
       location: "Toronto, ON, Canada",
       country: "Canada",
       salary: "$85,000 - $120,000",
@@ -99,12 +99,12 @@ const Index = () => {
       description: "Join our engineering team to build innovative solutions that impact millions of users worldwide.",
       requirements: ["Bachelor's in Computer Science", "3+ years experience", "Strong coding skills"],
       posted: "2 days ago",
-      applyLink: "https://careers.google.com/jobs/"
+      applyLink: "https://go2daff.click/click?o=3794&p=6184&s1=Landingpage"
     },
     {
       id: 7,
-      title: "Walmart Jobs Offer – Remote Task Work with Weekly Pay",
-      company: "Expert JobMatch",
+      title: "Job Match - Pepsi Jobs CPL (US)",
+      company: "DRMaFF",
       location: "United States",
       country: "United Kingdom",
       salary: "£35,000 - £45,000",
@@ -114,97 +114,7 @@ const Index = () => {
       description: "Looking for a flexible remote opportunity? Complete simple tasks online and earn up to $800 weekly. No prior experience required. Participants also receive a $100 gift through the Prizestash Cash App. Apply now—limited-time opportunity!",
       requirements: ["Excellent communication"],
       posted: "5 days ago",
-      applyLink: "https://tinyurl.com/Expert-JobMatch-WalmartJobs"
-    },
-    {
-      id: 8,
-      title: "Rewards US - Cash $750",
-      company: "Rewards",
-      location: "United States",
-      country: "United Kingdom",
-      salary: "$750 - $1000",
-      type: "Full-time",
-      schedule: "Lucky Time",
-      rating: 4.3,
-      description: "USA Gift Rewards CashApp 750 lucky winner So Youn Can Try it",
-      requirements: ["Generel knowlage"],
-      posted: "2 Hourse ago",
-      applyLink: "https://click2daff.com/click?o=3851&p=6184&s1=Twitter&s2=landingpage"
-    },
-    {
-      id: 9,
-      title: "HigherIncomeJobs - Work From Home ",
-      company: "American Airlines",
-      location: "United States",
-      country: "United Kingdom",
-      salary: "$30 - $55",
-      type: "Part - Time",
-      schedule: "Day Shift",
-      rating: 4.6,
-      description: "DO NOT state or imply that user has an interview scheduled or to be scheduled.",
-      requirements: ["Excellent communication"],
-      posted: "5 Hourse ago",
-      applyLink: "https://click2daff.com/click?o=3851&p=6184&s1=Twitter&s2=landingpage"
-    }, 
-    {
-      id: 10,
-      title: "ExpertJobMatch - Dollar Tree CPL (US)",
-      company: "Career/Jobs",
-      location: "United States",
-      country: "United Kingdom",
-      salary: "$30 - $40",
-      type: "Part - Time",
-      schedule: "Day Shift",
-      rating: 4.3,
-      description: "DO NOT state or imply that user has an interview scheduled or to be scheduled. Work Form Home",
-      requirements: ["Excellent communication"],
-      posted: "5 Hourse ago",
-      applyLink: "https://click2daff.com/click?o=3785&p=6184&s1=Twitter&s2=landingpage"
-    },
-    {
-      id: 11,
-      title: "Job Match - Amazon CPL (US)",
-      company: "Career/Jobs",
-      location: "United States",
-      country: "United Kingdom",
-      salary: "$25 - $30",
-      type: "Part - Time",
-      schedule: "Day Shift",
-      rating: 4.6,
-      description: "DO NOT state or imply that user has an interview scheduled or to be scheduled. Work Form Home",
-      requirements: ["Excellent communication"],
-      posted: "10 Hourse ago",
-      applyLink: "https://click2daff.com/click?o=3785&p=6184&s1=Twitter&s2=landingpage"
-    },
-    {
-      id: 11,
-      title: "Job Match - Amazon CPL (US)",
-      company: "Career/Jobs",
-      location: "United States",
-      country: "United Kingdom",
-      salary: "$25 - $30",
-      type: "Part - Time",
-      schedule: "Day Shift",
-      rating: 4.1,
-      description: "DO NOT state or imply that user has an interview scheduled or to be scheduled. Work Form Home",
-      requirements: ["Excellent communication"],
-      posted: "18 Hourse ago",
-      applyLink: "https://click2daff.com/click?o=3802&p=6184&s1=Landing&s2=page"
-    },
-    {
-      id: 11,
-      title: "JobsHubUSA - Walmart Work From Home",
-      company: "Career/Jobs",
-      location: "United States",
-      country: "United Kingdom",
-      salary: "$35 - $50",
-      type: "Part - Time",
-      schedule: "Day Shift",
-      rating: 3.8,
-      description: "DO NOT state or imply that user has an interview scheduled or to be scheduled. Work Form Home",
-      requirements: ["Excellent communication"],
-      posted: "18 Hourse ago",
-      applyLink: "https://click2daff.com/click?o=3725&p=6184&s1=landingpage"
+      applyLink: "https://go2daff.click/click?o=3806&p=6184&s1=landingpage"
     },
   ];
 
